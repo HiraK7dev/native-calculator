@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.hirak7dev.Calculator"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3a3b6823-4e06-4214-b79d-6d7a2129ae8a"
+      }
+    },
+    "owner": "hirak7dev"
   }
 }
